@@ -8,3 +8,5 @@ kickstart/.next
 lottery/node_modules
 lottery-react/node_modules
 lottery-updated/node_modules
+.DS_Store
+lottery-react
